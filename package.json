@@ -1,1 +1,18 @@
-{\n  "name": "sprintflow-firebase",\n  "version": "1.0.0",\n  "description": "SprintFlow Firebase application",\n  "main": "index.js",\n  "scripts": {\n    "start": "node index.js",\n    "build": "echo 'Build complete'"\n  },\n  "keywords": ["firebase", "sprintflow"],\n  "author": "",\n  "license": "ISC",\n  "dependencies": {\n    "express": "^4.18.2",\n    "firebase": "^9.23.0",\n    "firebase-admin": "^11.11.0"\n  }\n}
+{
+  "name": "sprintflow-firebase",
+  "version": "1.0.0",
+  "description": "SprintFlow Firebase application",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "build": "echo 'Build complete'"
+  },
+  "keywords": ["firebase", "sprintflow"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "firebase": "^9.23.0",
+    "firebase-admin": "^11.11.0"
+  }
+}
